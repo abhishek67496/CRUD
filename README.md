@@ -1,6 +1,3 @@
-Sure, here's your text converted into a README format:
-
-```markdown
 # Project Setup
 
 ## Setting Up Your Environment:
